@@ -1,5 +1,5 @@
 #include <stdio.h>
-//十進制轉二進制
+//十進制轉二進制https://e-tutor.itsa.org.tw/e-Tutor/mod/programming/view.php?id=30750
 int main(){
     int num;
     int ans[8] = {0};
